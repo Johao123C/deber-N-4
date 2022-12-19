@@ -50,7 +50,44 @@
 <img width="321" alt="23" src="https://user-images.githubusercontent.com/116811166/208335900-2374ec60-9657-4dc0-aeed-1e1d0eab2604.png">
 
   
+![24](https://user-images.githubusercontent.com/116811166/208336969-900f7014-8a42-49da-ab0c-d5a47fcb1341.jpg)
+![25](https://user-images.githubusercontent.com/116811166/208337264-7fdde241-b320-460d-bd09-ec4fc602f405.jpg)
+![26](https://user-images.githubusercontent.com/116811166/208337277-c5716228-fd46-4147-8137-b3d09b039133.jpg)
+![27](https://user-images.githubusercontent.com/116811166/208337282-21d997b2-6f5a-4c43-90fd-94ba1e3c7523.jpg)
+![28](https://user-images.githubusercontent.com/116811166/208337292-c5d772ed-e30f-4dcc-a3a3-2d9e86f1ac92.png)
+![29](https://user-images.githubusercontent.com/116811166/208337297-c127d9f8-bfc1-4086-a23a-5be48ff62b66.png)
+![30](https://user-images.githubusercontent.com/116811166/208337307-cae9d21e-204f-48d7-ad46-80c89451a205.png)
+![31](https://user-images.githubusercontent.com/116811166/208337313-8c842f66-28b9-41d4-97c2-cf3f44f84430.png)
+![32](https://user-images.githubusercontent.com/116811166/208337317-88fece3b-b19a-403d-be75-8b62bfb2bbab.png)
+![33](https://user-images.githubusercontent.com/116811166/208337327-07eb96a6-98a7-414e-a01e-274c587c423c.png)
+![34](https://user-images.githubusercontent.com/116811166/208337332-fa812576-0060-4bc2-b545-92d3d1fa4cc8.png)
+![35](https://user-images.githubusercontent.com/116811166/208337336-5a8fbeae-0501-40ed-8e24-b5b085d1b12c.png)
+![36](https://user-images.githubusercontent.com/116811166/208337342-b0feab0f-ae67-4951-927d-3314049d9f76.png)
+### Capítulo 8 - Ejercicios
+![37](https://user-images.githubusercontent.com/116811166/208337664-2abe611b-9f60-4b6b-83ad-4f1d9d1e949d.png)
+![38](https://user-images.githubusercontent.com/116811166/208337668-2fe45d40-2d76-45e2-b4df-d54f4ad6cdd5.png)
+![39](https://user-images.githubusercontent.com/116811166/208337671-33192f77-32a1-4c9e-94f6-7c737bcb0359.png)
+![40](https://user-images.githubusercontent.com/116811166/208337674-25af92e8-6cf2-44ea-a270-12b25c8b80e2.png)
+![41](https://user-images.githubusercontent.com/116811166/208337678-55dc63e8-79fa-42aa-9cc1-a172680d504b.png)
+![42](https://user-images.githubusercontent.com/116811166/208337685-bfa642cf-8e41-424c-a136-8f5fbcabea2c.png)
+![43](https://user-images.githubusercontent.com/116811166/208337690-2134c6f8-a29e-4de8-8f83-700041d54bd3.png)
+![44](https://user-images.githubusercontent.com/116811166/208337696-0ea41605-1f68-4d63-8942-e2a94567ba0c.png)
+![45](https://user-images.githubusercontent.com/116811166/208337704-cd34f657-f0c9-4727-a50e-5945538bac34.png)
+![46](https://user-images.githubusercontent.com/116811166/208337711-6223ce4d-eb5b-4632-954d-b181ec882ef3.png)
+![47](https://user-images.githubusercontent.com/116811166/208337714-ce93265f-13e9-4b28-9a58-350c7fd2cc34.png)
+![48](https://user-images.githubusercontent.com/116811166/208337720-91396bec-44fb-486b-9ccf-7191153009af.png)
+![49](https://user-images.githubusercontent.com/116811166/208337731-f5121380-4544-498b-b6a7-5db745a4d178.png)
+![50](https://user-images.githubusercontent.com/116811166/208337736-48ba0545-79af-4578-b1f3-db113f295052.png)
+![51](https://user-images.githubusercontent.com/116811166/208337744-bd02f03f-f815-4c02-b186-2c0143555ad8.png)
+![52](https://user-images.githubusercontent.com/116811166/208337762-3f1b3404-46e8-4410-9474-60b7b9c9ac1d.png)
 
+## 4. Video
+https://youtu.be/r2S2mPsFCaM
+## 5. Conclusiones
+* Tras el análisis de los temas propuestos nos fue posible establecer la importancia de la revisión teórica para la resolución de ejercicios dentro de la cual nos fue posible identificar distintos teoremas para construir circuitos equivalentes como los son el teorema de superposición que permite encontrar corrientes parciales y simplificar circuitos que requieran de la utilización de multiples fuentes de alimentación, de Norton que reduce circuitos complejos encontrando una corriente y resistencia de Norton, su circuito se forma por dos resistencias y una fuente de corriente todas en paralelo, de Thevenin que basa su procedimiento en encontrar una resistencia y voltaje de Thevenin y su circuito se reduce a uno de dos resistencias y una fuente de voltaje, estas  se encuentran en paralelo, finalmente, el teorema de tranferencia de potencia máxima que permite conocer las circunstancias en las cuales se da este suceso. Todos los teoremas comprenden un procedimiento y propósitos distintos, sin embargo, al mismo tiempo todos pretenden agilizar el proceso de solución.
+* Es importante también el reconocer la forma en la que componentes de un circuito están colocados, es decir, identificar si ciertos elementos como resistencias se encuentran conectados en serie o están conectados en paralelo y usar las ecuaciones adecuadas para el cálculos de valores correcto; además de comprender que al insertar un nuevo elemento en un circuito lo va a afectar de una manera distinta dependiendo de como se lo agregue (en serie o en paralelo) ya que como se dijo previamente afectará el valor equivalente de las resistencias (en este caso) que tenga el circuito. 
+## 6. Bibliografía
+  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
   
   
   
